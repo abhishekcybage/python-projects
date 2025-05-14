@@ -1,3 +1,8 @@
+
+<p align="center">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHapuKbGi0Qi4MF-104TFm40SoT3Fiqf4B2Q&s" alt="Project Logo" width="726">
+</p> 
+
 # My Python Projects
 This is a collection of my first Python projects. Each file is a separate mini-program that demonstrates my basic knowledge in Python programming.
 
